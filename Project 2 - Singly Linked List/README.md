@@ -9,7 +9,7 @@ For this assignment, you will implement a singly-linked node class. Use your sin
 The SinglyLinkedList class is defined by the following data:
 * A node pointer to the front and the tail of the list
 
-## Run code easily on Repl.it!
+## Run C++ code easily on Repl.it!
 https://repl.it/@RScott46/Singly-Linked-List
 
 ---
