@@ -7,13 +7,16 @@ Operations include =, ==, +, <, >, and <<
 
 Methods include get(int):char, toUpper():MyString, toLower():MyString, substring(int):MyString, substring(int, int):MyString, indexOf(MyString):int, and lastIndexOf(MyString):int
 
+## Run code easily on Repl.it!
+https://repl.it/@RScott46/Project-1-MyString
+
 ---
 
 ## The purpose of this assignment is to practice:
 * Implementing a sequential abstract data type that uses a dynamic array structure
 * Analyzing and comparing algorithms for efficiency using Big-O notation
 
-This assignment reinforces the following competency: Apply the fundamentals of mathematics in computer science disciplines.
+### This assignment reinforces the following competency: Apply the fundamentals of mathematics in computer science disciplines.
 For this assignment, you will implement a version of the string class.    
 
 Design and implement a MyString class defined by the following data:
