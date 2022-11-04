@@ -1,0 +1,2 @@
+# Algorithms and Data Structures
+ This course covers classical algorithms and data structures, with an emphasis on implementation and application in solving real-world computational problems. The course focuses on algorithms for sorting, searching, string processing, and graphs. Students learn basic strategies to evaluate divide-and-conquer, recursive backtracking, and algorithm efficiency. Hands-on activities focus on writing code that implements concepts and algorithm implementation techniques. Prerequisite: CST-210 or CST-239 or CST-135 or CST-250 or CST-227.
